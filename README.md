@@ -1,2 +1,5 @@
 # hello-world
 just another first repository
+Bryan here, solution ideas to plastic pollution have kept me up at night. Plastic on our shores everyday has kepy my brain turning. Reasearching and and coming to understand that these ideas can be applied. Without knowing where to start I walked approx 400 miles collecting plastic pollution down the coast of Florida to gain some attention and spread awareness. after 22 days of hiking we gsathered over 1 full ton of plastic from the shorelines. Next we have incorporated and focused on gathering educational data and material to utilize in our upcoming dev. Now we are hiking over 1,200 miles down around, and up the entire florida peninsula and we are utilizing blockchain data solutions as well as creating a ERC20 token for publicity and future platform developemnt. 
+On github looking for other like minded people that want to dedicate time and attention to the plastic pollution disease. If you have read this far please reach out to me. refuse@plasticsymptoms.org thanks!
+To Earth and decentralized solutions!
